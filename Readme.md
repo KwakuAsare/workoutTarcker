@@ -1,7 +1,7 @@
 
 # Workout Tracker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-URL: herokuapp.com
+URL: https://fierce-river-73927.herokuapp.com/
 ## Description:
 Workout Tracker application allows users to carefully monitor their workout needs. Users will be able tro track reps, sets, miles etc.
 ## Table of Contents:
